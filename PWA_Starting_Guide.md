@@ -46,5 +46,3 @@ Ressources Used for this Guide
 [Service Worker Learning Tool](https://web.dev/codelab-service-workers/)
 
 [Guide from Google](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/#0)
-
-[SW_Push Angular Docs](https://angular.io/api/service-worker/SwPush)
