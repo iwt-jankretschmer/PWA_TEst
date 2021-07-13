@@ -13,12 +13,15 @@ for local execution use:
 ..* Tipp: for local debugging use port 8000 under local home so:
  http://127.0.0.1:8000/ thise wise u dont need a certificate and test locally if it works 
  so
+ 
 
   ```http-server -p 8080 -c-1 dist/<project-name>```
 
 
 ## 2. The Service Worker
 The Service Worker sits 
+
+for local debugg use /ngsw/state in the url to get the status 
 
 ##  SwUpdate
 
