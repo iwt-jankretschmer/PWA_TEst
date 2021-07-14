@@ -22,6 +22,8 @@ for local execution use:
 The Service Worker sits 
 
 for local debugg use /ngsw/state in the url to get the status 
+or
+chrome://serviceworker-internals/
 
 ##  SwUpdate
 
